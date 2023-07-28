@@ -2,9 +2,9 @@
 
 [image](https://github.com/ibrahimusluu/product-management-with-react-js/blob/master/client/src/assets/App_View.png)
 
-[image](https://github.com/ibrahimusluu/product-management-with-react-js/blob/master/client/src/assets/Cart_View.png)
+<!-- [image](https://github.com/ibrahimusluu/product-management-with-react-js/blob/master/client/src/assets/Cart_View.png) -->
 
-[image](https://github.com/ibrahimusluu/product-management-with-react-js/blob/master/client/src/assets/Contact_View.png)
+<!-- [image](https://github.com/ibrahimusluu/product-management-with-react-js/blob/master/client/src/assets/Contact_View.png) -->
 
 # product-management-with-react-js
 
