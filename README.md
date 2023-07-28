@@ -2,9 +2,13 @@
 
 ![image](https://github.com/ibrahimusluu/product-management-with-react-js/blob/master/client/src/assets/App_View.png)
 
+Cart_View
+
 <hr>
 
 ![image](https://github.com/ibrahimusluu/product-management-with-react-js/blob/master/client/src/assets/Cart_View.png)
+
+Contact_View
 
 <hr>
 
